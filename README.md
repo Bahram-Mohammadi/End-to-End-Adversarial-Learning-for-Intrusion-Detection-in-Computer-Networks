@@ -1,1 +1,1 @@
-# End-to-End-Adversarial-Learning-for-Intrusion-Detection-in-Computer-Networks
+# E2E_Net_for_IDS
